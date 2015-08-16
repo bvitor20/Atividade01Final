@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson 01</string>
+
+    <string name="hello_world">Easy Choice</string>
+    <string name="action_settings">Settings</string>
+    <string name="type01">Gas</string>
+    <string name="type02">Alcohol</string>
+    <string name="btn01">Calculate</string>
+    <string name="lblType1">Fill with Gas !</string>
+    <string name="lblType2">Fill with Alcohol !</string>
+
+</resources>

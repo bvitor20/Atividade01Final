@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atividade01</string>
+
+    <string name="hello_world">Escolha Fácil</string>
+    <string name="action_settings">Configurações</string>
+    <string name="type01">Gasolina</string>
+    <string name="type02">Álcool</string>
+    <string name="btn01">Calcular</string>
+    <string name="lblType1">Abasteça com Gasolina!</string>
+    <string name="lblType2">Abasteça com Álcool!</string>
+</resources>
